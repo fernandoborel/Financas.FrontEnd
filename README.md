@@ -1,10 +1,13 @@
 # Financas.FrontEnd
-FrontEnd do sistema de Finanças
 
-## Para o backend eu criei uma API em .NET 8, api: https://github.com/fernandoborel/Financas.Api
+## FrontEnd do sistema de Finanças
 
+### Para o backend eu criei uma API em .NET 8 
+### api: https://github.com/fernandoborel/Financas.Api
 
-=======
+<hr/>
+
+=============
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
