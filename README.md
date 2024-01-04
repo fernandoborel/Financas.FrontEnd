@@ -1,6 +1,6 @@
 # Financas.FrontEnd
 
-## FrontEnd do sistema de Finanças
+## FrontEnd do sistema de Finanças, criado com Next
 
 ### Para o backend eu criei uma API em .NET 8 
 ### api: https://github.com/fernandoborel/Financas.Api
